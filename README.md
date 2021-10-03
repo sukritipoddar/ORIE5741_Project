@@ -1,3 +1,3 @@
 # ORIE5741_Project
-Big Messy Data Final Project 
-Group Members - JK SP YS
+Projject Name: Stock Price Prediction
+Group Members - Josiah Kek    Sukriti Poddar     Yichen Shao
