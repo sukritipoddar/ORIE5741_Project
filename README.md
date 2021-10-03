@@ -3,6 +3,6 @@
 Project Name: Stock Price Prediction  
   
 Group Members:  
-Josiah Kek     
-Sukriti Poddar  
-Yichen Shao  
+Josiah Kek (jrk322)     
+Sukriti Poddar (sp873)  
+Yichen Shao (ys2233)  
