@@ -1,3 +1,8 @@
 # ORIE5741_Project
+  
 Project Name: Stock Price Prediction  
-Group Members - Josiah Kek    Sukriti Poddar     Yichen Shao  
+  
+Group Members:  
+Josiah Kek     
+Sukriti Poddar  
+Yichen Shao  
